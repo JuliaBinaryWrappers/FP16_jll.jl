@@ -1,0 +1,6 @@
+[FP16]
+git-tree-sha1 = "10c98de5700c7eb576f7e6f2459033d2966bdce0"
+
+    [[FP16.download]]
+    sha256 = "00a6594247c2fe5a97bbbb03fe55cda9f82e49bdc22b67bef5ac741e8d6535e9"
+    url = "https://github.com/JuliaBinaryWrappers/FP16_jll.jl/releases/download/FP16-v0.0.20210320+0/FP16.v0.0.20210320.any.tar.gz"
